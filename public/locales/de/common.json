@@ -1,0 +1,10 @@
+{
+  "year_one": "ein Jahr",
+  "year_other": "{{count}} Jahre",
+  "month_one": "einen Monat",
+  "month_other": "{{count}} Monate",
+  "day_one": "einen Tag",
+  "day_other": "{{count}} Tage",
+  "gta-v-is-old": "GTA V ist heute {{time}} alt.",
+  "and": "und"
+}
