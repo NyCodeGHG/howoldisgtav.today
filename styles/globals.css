@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --primary-foreground: #121212;
+  --primary-background: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-foreground: #fff;
+    --primary-background: #121212;
+  }
+}
+
+body {
+  color: var(--primary-foreground);
+  background-color: var(--primary-background);
+}
