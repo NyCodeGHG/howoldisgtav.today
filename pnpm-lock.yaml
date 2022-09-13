@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@types/node': 18.7.14
   '@types/react': 18.0.19
-  date-fns: 2.29.2
+  date-fns: 2.29.3
   eslint: 8.23.1
   eslint-config-next: 12.3.0
   next: 12.3.0
@@ -13,7 +13,7 @@ specifiers:
   typescript: 4.8.3
 
 dependencies:
-  date-fns: 2.29.2
+  date-fns: 2.29.3
   next: 12.3.0_biqbaboplfbrettd7655fr4n2y
   next-i18next: 12.0.1_c3hne4hwj64hb7tofigd3bvkji
   react: 18.2.0
@@ -510,8 +510,8 @@ packages:
     resolution: {integrity: sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==}
     dev: true
 
-  /date-fns/2.29.2:
-    resolution: {integrity: sha512-0VNbwmWJDS/G3ySwFSJA3ayhbURMTJLtwM2DTxf9CWondCnh6DTNlO9JgRSq6ibf4eD0lfMJNBxUdEAHHix+bA==}
+  /date-fns/2.29.3:
+    resolution: {integrity: sha512-dDCnyH2WnnKusqvZZ6+jA1O51Ibt8ZMRNkDZdyAyK4YfbDwa/cEmuztzG5pk6hqlp9aSBPYcjOlktquahGwGeA==}
     engines: {node: '>=0.11'}
     dev: false
 
